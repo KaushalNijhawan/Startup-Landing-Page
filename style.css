@@ -1,0 +1,36 @@
+
+html,body {
+  height: 100%;
+  width: 100%; 
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	font-family: "Times New Roman";
+	color: #F6F4F4;
+}
+.btn-xl{
+	text-align: center;
+	margin: 4px 2px 2px;
+	border:none;
+	border-radius: 300px ;
+	background-color: #EE5239;
+	padding : 1rem 2rem;
+	font-weight:700;
+}
+.btn-primary:hover{
+	background-color:#F14024;
+}
+.hey{
+	border: 2px solid #EE5239;
+	max-width: 65px;
+	align-items: left;
+}
+.buffer{
+	height: 10rem;
+}
